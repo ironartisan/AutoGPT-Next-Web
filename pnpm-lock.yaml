@@ -188,7 +188,7 @@ devDependencies:
     specifier: ^8.0.3
     version: 8.0.3
   jest:
-    specifier: ^29.6.4
+    specifier: ^29.7.0
     version: 29.7.0(@types/node@20.10.4)
   jest-environment-jsdom:
     specifier: ^29.6.3
