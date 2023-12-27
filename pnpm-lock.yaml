@@ -42,7 +42,7 @@ dependencies:
     specifier: ^10.30.0
     version: 10.44.1
   '@uiball/loaders':
-    specifier: ^1.3.0
+    specifier: ^1.3.1
     version: 1.3.1(react-dom@18.2.0)(react@18.2.0)
   '@upstash/ratelimit':
     specifier: ^0.4.4
